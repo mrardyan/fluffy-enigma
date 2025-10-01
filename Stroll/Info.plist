@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Fontspring-DEMO-proximanova-bold.otf</string>
+		<string>Fontspring-DEMO-proximanova-semibold.otf</string>
+		<string>Fontspring-DEMO-proximanova-regular.otf</string>
+		<string>Fontspring-DEMO-proximanova-boldit.otf</string>
+		<string>Fontspring-DEMO-proximanova-semiboldit.otf</string>
+		<string>Fontspring-DEMO-proximanova-regularit.otf</string>
+	</array>
+</dict>
+</plist>
